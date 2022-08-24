@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ashutosh Mohan"
-resume_title:                   "Resume"
+resume_title:                   "Generalist looking to "
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ashutoshmohan@gmail.com"
@@ -23,7 +23,9 @@ resume_contact_address:         " "
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>
+I am a generalist with strong problem solving and analytical stills. I’ve worked as a part of founding engineering teams at two startups where I translated a business problems into tech solutions, iterating quickly to release a product, and evolving a small engineering team of typically <5 members around it. I’ve built web and mobile apps (including an AR app) for products ranging from e-commerce platforms, gamification and simulation to tools to explore dynamical systems. I am looking for projects where I can be a part of the early development of interesting product ideas. 
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,7 +47,7 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
+  resume_github_url:            "https://github.com/notashutosh"
   resume_twitter_url:           "http://twitter.com/notashutosh"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
