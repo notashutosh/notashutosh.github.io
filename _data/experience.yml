@@ -1,19 +1,35 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Film Companion South, Chennai
+  position: Editorial Consultant & Writer
+  duration: Jan 2020 &mdash; Mar 2022
+  summary: Wrote about films (features, reviews and interviews) as a part of Film Companion South team led by National award‐winning film critic Baradwaj Rangan. Link to author page below.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Mad Street Den, Chennai
+  position: Machine Learning Engineer
+  duration: Aug 2018 &mdash; Nov 2019
+  summary: I reported to the CTO working on incubating machine learning projects, and managed a team of 5 engineers developing backend tools and frontends for various ML products.
 
+- company: CasaOne, Bangalore
+  position: Member of Technical Staff
+  duration:  Jul 2017 &mdash; Jun 2018
+  summary: As a part of the founding engineering team I wrote CasaOne's augmented reality iOS app. Part of a team of 5 engineers to develop an e‐commerce webapp (MERN stack), delivery logistics management iOS app and warehouse management webapp.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Yakit, Bangalore
+  position: Software Engineer
+  duration:   Aug 2016  &mdash; May 2017
+  summary: Yakit is an international logistics company. I built the in‐house customs agent interface used to track and manage packages at customs terminals.
+
+- company: Knolskape, Bangalore
+  position: Team Lead
+  duration:   Mar 2016  &mdash; Aug 2016
+  summary: Yakit is an international logistics company. I built the in‐house customs agent interface used to track and manage packages at customs terminals.
+
+- company: Shomonk, Bangalore
+  position: Tech Lead
+  duration:   Apr 2015  &mdash; Feb 2016
+  summary:  Built an e‐commerce backend in PHP using the Laravel Framework and hosted it on AWS as the first engineer at the company.
+
+  -company: University of Wisconsin, Madison
+  position: Research Scientist
+  duration:   Nov 2012  &mdash; Dec 2013
+  summary:  Worked as a part of DARPA‐funded project to develop neural prosthetics.

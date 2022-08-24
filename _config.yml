@@ -32,6 +32,8 @@ I've also breifly dabbled as a film writer contributing to Film Companion South 
 <br><br>
 The following is a brief overview of projects I've worked on. Here's a <a target='_blank' href='https://github.com/notashutosh/notashutosh.github.io/blob/gh-pages/CV%20Ashutosh%20Mohan.pdf'> detailed resume </a>. 
 
+<br><br>
+I have 1 hexadcimal dollar at <a href='https://www-cs-faculty.stanford.edu/~knuth/boss.html' target='_blank'> Prof. Knuth's Bank of San Serriffe </a> for pointing out a typographical error. 
 </p>"
 
 # use "yes" to display the email contact button,
@@ -45,10 +47,10 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
+# resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+# resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
